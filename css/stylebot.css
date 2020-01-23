@@ -1,0 +1,188 @@
+body{
+    background-color: #dddddd;
+}
+
+.tour{
+    width: 100px;
+    height: 100px;
+}
+
+#banniere{
+    margin: auto;
+}
+
+.noir{
+    opacity: 0.5;
+    float: left;
+    position: absolute;
+    width: 22.4%;
+    height: inherit;
+    display: inherit;
+}
+
+#noir4{
+    display: none;
+}
+
+.croix{
+    display: none;
+    width: auto;
+    height: 85%;
+    margin: auto;
+}
+
+.pcroix{
+    display: none;
+    width: auto;
+    height: 90%;
+    margin: auto;
+    /*margin-top: 23%;*/
+}
+
+#tourcercle{
+    display: none;
+}
+#tourcroix{
+    display: none;
+}
+
+#tout{
+    width: 75%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.menu{
+    background-color: darkgray;
+    border: black 1px solid;
+    float: left;
+    width: 33%;
+    text-align: center;
+    margin-bottom: 3%;
+    color: black;
+}
+
+.menu:hover{
+    background-color: grey;
+}
+
+#g0{
+    border-bottom: black 3px solid;
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+
+#g1{
+    border-bottom: black 3px solid;
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+
+#g2{
+    border-bottom: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+
+#g3{
+    border-bottom: black 3px solid;
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+#g4{
+    border-bottom: black 3px solid;
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+#g5{
+    border-bottom: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+#g6{
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+#g7{
+
+    border-right: black 3px solid;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+#g8{
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+
+
+.p0{
+    border-right: black 1px solid;
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p1{
+    border-right: black 1px solid;
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p2{
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p3{
+    border-right: black 1px solid;
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p4{
+    border-right: black 1px solid;
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p5{
+    border-bottom: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p6{
+    border-right: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p7{
+    border-right: black 1px solid;
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+.p8{
+    float: left;
+    width: 33%;
+    height: 33%;
+}
